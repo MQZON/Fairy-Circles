@@ -1,12 +1,12 @@
 {
-    "name": "mqzon:forest_fairy_circle",
+    "name": "fairy_circles:forest_fairy_circles_pool",
     "fallback": "minecraft:empty",
     "elements": [
       {
         "weight": 1,
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "mqzon:forest_fairy_circle_small",
+          "location": "fairy_circles:tethered/large_tethered_oak",
           "projection": "rigid",
           "processors": "minecraft:empty"
         }

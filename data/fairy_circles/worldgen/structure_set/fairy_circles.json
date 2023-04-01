@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "mqzon:forest_fairy_circle",
+            "structure": "fairy_circles:forest_fairy_circle",
             "weight": 1
         }
     ],

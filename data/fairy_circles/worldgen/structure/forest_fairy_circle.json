@@ -4,8 +4,8 @@
     "step": "vegetal_decoration",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "mqzon:forest_fairy_circle",
-    "size": 1,
+    "start_pool": "fairy_circles:forest_fairy_circles_pool",
+    "size": 2,
     "start_height": {
         "absolute": 0
     },
