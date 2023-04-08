@@ -29,6 +29,10 @@
                             "function": "minecraft:exploration_map",
                             "destination": "fairy_circles:fairy_circle_tag",
                             "decoration": "banner_light_blue"
+                        },
+                        {
+                            "function": "set_name",
+                            "name": {"text": "Fairy Circle"}
                         }
                     ]
                 }
