@@ -1,0 +1,24 @@
+{
+    "name": "fairy_circles:medium_roots_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "fairy_circles:roots/medium_roots_empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "fairy_circles:roots/medium_roots_with_fairied_treasure"
+            }
+        }
+    ]
+}
