@@ -8,7 +8,16 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "fairy_circles:roots/tiny_roots"
+                "location": "fairy_circles:roots/tiny_roots_empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "fairy_circles:roots/tiny_roots_with_fairied_treasure"
             }
         }
     ]
