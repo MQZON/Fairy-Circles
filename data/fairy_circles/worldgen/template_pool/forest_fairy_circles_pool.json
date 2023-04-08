@@ -6,7 +6,7 @@
         "weight": 1,
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "fairy_circles:tethered/tiny_tethered_oak",
+          "location": "fairy_circles:tethered/oak/tiny_tethered_oak",
           "projection": "rigid",
           "processors": "minecraft:empty"
         }
@@ -15,7 +15,7 @@
         "weight": 1,
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "fairy_circles:tethered/small_tethered_oak",
+          "location": "fairy_circles:tethered/oak/small_tethered_oak",
           "projection": "rigid",
           "processors": "minecraft:empty"
         }
@@ -24,7 +24,7 @@
         "weight": 1,
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "fairy_circles:tethered/medium_tethered_oak",
+          "location": "fairy_circles:tethered/oak/medium_tethered_oak",
           "projection": "rigid",
           "processors": "minecraft:empty"
         }
@@ -33,7 +33,7 @@
         "weight": 1,
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "fairy_circles:tethered/large_tethered_oak",
+          "location": "fairy_circles:tethered/oak/large_tethered_oak",
           "projection": "rigid",
           "processors": "minecraft:empty"
         }
