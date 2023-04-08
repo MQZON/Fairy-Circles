@@ -10,6 +10,24 @@
           "projection": "rigid",
           "processors": "minecraft:empty"
         }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "fairy_circles:tethered/small_tethered_oak",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "fairy_circles:tethered/medium_tethered_oak",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
       }
     ]
   }
