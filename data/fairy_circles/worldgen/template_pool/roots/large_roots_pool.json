@@ -1,5 +1,5 @@
 {
-    "name": "fairy_circles:tiny_roots_pool",
+    "name": "fairy_circles:large_roots_pool",
     "fallback": "minecraft:empty",
     "elements": [
         {
@@ -8,7 +8,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "fairy_circles:roots/tiny_roots_empty"
+                "location": "fairy_circles:roots/large_roots_empty"
             }
         },
         {
@@ -17,7 +17,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "fairy_circles:roots/tiny_roots_with_fairied_treasure"
+                "location": "fairy_circles:roots/large_roots_with_fairied_treasure"
             }
         }
     ]
