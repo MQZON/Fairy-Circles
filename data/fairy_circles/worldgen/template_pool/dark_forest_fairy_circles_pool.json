@@ -1,0 +1,15 @@
+{
+    "name": "fairy_circles:dark_forest_fairy_circles_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "fairy_circles:tethered/dark_oak/large_tethered_dark_oak",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
