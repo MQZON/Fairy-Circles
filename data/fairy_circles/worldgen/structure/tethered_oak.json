@@ -1,6 +1,6 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": ["forest", "flower_forest", "windswept_forest", "swamp"],
+    "biomes": ["forest", "flower_forest", "windswept_forest"],
     "step": "vegetal_decoration",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
