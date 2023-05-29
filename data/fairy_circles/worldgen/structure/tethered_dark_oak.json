@@ -1,10 +1,10 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": ["forest", "flower_forest", "windswept_forest", "swamp"],
+    "biomes": "minecraft:dark_forest",
     "step": "vegetal_decoration",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "fairy_circles:forest_fairy_circles_pool",
+    "start_pool": "fairy_circles:tethered_dark_oak_pool",
     "size": 3,
     "start_height": {
         "absolute": 0
